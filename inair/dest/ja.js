@@ -11,8 +11,7 @@
   "inAir.itvResult.label.proxy_doubt": "替え玉受検の疑い",
   "inAir.itvResult.label.doubt": "疑い",
   "inAir.itvResult.label.unavailable": "負荷",
-  "inAir.itvResult.error.msg2":
-      "영상을 재생할수 없는 환경입니다.<br> Microsoft Edge, Google Chrome, Firefox 등 <br> 데스크탑PC에서 재생이 가능합니다.",
+  "inAir.itvResult.error.msg2": "영상을 재생할수 없는 환경입니다.<br> Microsoft Edge, Google Chrome, Firefox 등 <br> 데스크탑PC에서 재생이 가능합니다.",
   "inAir.itvResult.error.msg3": "このブラウザでは再生できません。",
   "inAir.itvResult.label.basic_question": "基本質問",
   "inAir.itvResult.label.situation_question": "状況質問",
@@ -37,10 +36,8 @@
   "inAir.itvResult.label.check_clip": "映像確認必要",
   "inAir.itvResult.label.trust_unavailable": "回答信頼不可",
   "inAir.itvResult.guide.msg2": "〇〇さんのオンライン面接は完了されており、分析の結果は信頼できます。",
-  "inAir.itvResult.guide.msg3":
-      "OO님은 정상적으로 온라인 면접을 완료하였으며, 분석 결과는 신뢰할 수 있습니다. 다만, 영상을 분석한 결과 원활하지 못한 응시가 예상되는 부분이 있으니 실제 영상을 확인하시기 바랍니다.",
-  "inAir.itvResult.guide.msg4":
-      "음성 또는 영상 데이터가 불안정하여 정상적으로 분석할 수 없습니다. 노란색 표기가 붙은 영상을 확인해 보시기 바랍니다.",
+  "inAir.itvResult.guide.msg3": "OO님은 정상적으로 온라인 면접을 완료하였으며, 분석 결과는 신뢰할 수 있습니다. 다만, 영상을 분석한 결과 원활하지 못한 응시가 예상되는 부분이 있으니 실제 영상을 확인하시기 바랍니다.",
+  "inAir.itvResult.guide.msg4": "음성 또는 영상 데이터가 불안정하여 정상적으로 분석할 수 없습니다. 노란색 표기가 붙은 영상을 확인해 보시기 바랍니다.",
   "inAir.itvResult.label.confirm": "確認",
   "inAir.itvResult.label.support": "応募",
   "inAir.itvResult.label.field": "現職",
@@ -121,11 +118,9 @@
   "inAir.itvResult.label.job_score": "職種〇点数",
   "inAir.itvResult.label.conclusion_comment": "総合コメント",
   "inAir.itvResult.guide.msg5": "の受検結果を信頼できません。",
-  "inAir.itvResult.guide.msg6":
-      "OO님의 결과는 다른 재직자와 비교할 수 없습니다.<br><br>따라서 본 결과를 의사 결정에 활용하는 것은 적절하지 않습니다.<br><br>응답신뢰불가 원인에 해당하는 키워드를 확인하시기 바랍니다.",
+  "inAir.itvResult.guide.msg6":"OO님의 결과는 다른 재직자와 비교할 수 없습니다.<br><br>따라서 본 결과를 의사 결정에 활용하는 것은 적절하지 않습니다.<br><br>응답신뢰불가 원인에 해당하는 키워드를 확인하시기 바랍니다.",
   "inAir.itvResult.guide.msg7": "〇〇さんの結果は、他の在職者と比較することができません。",
-  "inAir.itvResult.guide.msg8":
-      "OO님의 결과는 다른 지원자와 비교할 수 없습니다.<br><br>따라서 본 결과를 의사 결정에 활용하는 것은 적절하지 않습니다.<br><br>응답신뢰불가 원인에 해당하는 키워드를 확인하시기 바랍니다.",
+  "inAir.itvResult.guide.msg8":"OO님의 결과는 다른 지원자와 비교할 수 없습니다.<br><br>따라서 본 결과를 의사 결정에 활용하는 것은 적절하지 않습니다.<br><br>응답신뢰불가 원인에 해당하는 키워드를 확인하시기 바랍니다.",
   "inAir.itvResult.label.chart_title": "コンピテンシー点数総合ダイアグラム",
   "inAir.itvResult.label.order_capability": "コンピテンシー順",
   "inAir.itvResult.label.order_low": "低い順",
@@ -133,7 +128,7 @@
   "inAir.itvResult.label.trust": "信頼",
   "inAir.itvResult.label.value": "価値",
   "inAir.itvResult.label.passion": "熱情",
-  "inAir.itvResult.label.strategy": "戦略　",
+  "inAir.itvResult.label.strategy": "戦略",
   "inAir.itvResult.label.relation": "関係",
   "inAir.itvResult.label.organization_suitability": "組織適合",
   "inAir.itvResult.label.impression": "好感度",
@@ -199,8 +194,7 @@
   "inAir.itvResultV2.label.difficult_type3": "難しい有形",
   "inAir.itvResultV2.guide.msg9": "難しい有形で後半に行くほど問題解決に適応する水準うぃ意味します。",
   "inAir.itvResultV2.label.difficulty_up": "難易度上昇",
-  "inAir.itvResultV2.guide.msg10":
-      "동일한 게임 내에서 쉬운 유형에서 어려운 유형으로 난이도 변화가 있을 때 문제 풀이에 적응하는 수준을 의미합니다.",
+  "inAir.itvResultV2.guide.msg10":"同一ゲーム内の易しい有形で難しい有形へと難易度の変化があった時、問題解決に適応する水準を意味します。",
   "inAir.itvResultV2.label.detail_job": "職群／職務適合度（詳細）",
   "inAir.itvResultV2.label.job": "職群",
   "inAir.itvResultV2.label.job_group": "職務",
@@ -226,10 +220,9 @@
   "inAir.itvResultV2.label.apply_for_field": "応募分野",
   "inAir.itvResultV2.label.apply_for_job": "応募職種",
   "inAir.itvResultV2.label.screening": "典型",
-  "inAir.itvResultV2.guide.msg11":
-      "응시자의 응시 결과를 신뢰할 수 없습니다.<br> {0}님의 결과를 다른 응시자와 비교할 수 없어, 본 결과를 의사 결정에 활용하는 것은 적절하지 않습니다.<br>응답신뢰불가 원인에 해당하는 키워드를 확인하시기 바랍니다.",
+  "inAir.itvResultV2.guide.msg11":"응시자의 응시 결과를 신뢰할 수 없습니다.<br> {0}님의 결과를 다른 응시자와 비교할 수 없어, 본 결과를 의사 결정에 활용하는 것은 적절하지 않습니다.<br>응답신뢰불가 원인에 해당하는 키워드를 확인하시기 바랍니다.",
   "inAir.itvResultV2.label.applicant_skill": "受験者コンピテンシー解析",
-  "inAir.itvResultV2.comment.msg1": "<br>ブラインド処理されました。",
+  "inAir.itvResultV2.comment.msg1": "{0}<br>ブラインド処理されました。",
   "inAir.itvResultV2.label.entire": "全体",
   "inAir.itvResultV2.label.applicant": "応募",
   "inAir.itvResultV2.label.examinee_score_scatter": "受験者点数分布",
@@ -244,14 +237,12 @@
   "inAir.itvResultV2.guide.msg12": "全体〇位(上位〇%)です。",
   "inAir.itvResultV2.label.top_rank3": "職種の受検者は全〇人で、",
   "inAir.itvResultV2.label.job_examinee": "職種の受検者",
-  "inAir.itvResultV2.guide.msg13":
-      "전체 응시자 {0}명 중 {1}직군 응시자는 총 {2}명이며, {3}님은 {1}직군에서 {4}등(상위 {5}%)입니다.",
+  "inAir.itvResultV2.guide.msg13":"전체 응시자 {0}명 중 {1}직군 응시자는 총 {2}명이며, {3}님은 {1}직군에서 {4}등(상위 {5}%)입니다.",
   "inAir.itvResultV2.label.job2": "〇〇職種",
   "inAir.itvResultV2.label.examinee_profile_compare": "典型内応募者のプロフィール比較",
   "inAir.itvResultV2.label.examinee": "受検者",
   "inAir.itvResultV2.label.entire_average": "全体平均",
-  "inAir.itvResultV2.guide.msg14":
-      "재직자 검사를 실시한 후 관리자 설정에서 대표/유사 구성원을 설정하시면 응시자와 재직자의 역량 수준을 비교하실 수 있습니다.",
+  "inAir.itvResultV2.guide.msg14":"在職者検査を実施してから、管理者設定で代表／類似構成員を設定すると、応募者と在職者との力量水準を比較することができます。",
   "inAir.itvResultV2.label.similarity": "代表メンバーとも類似性",
   "inAir.itvResultV2.guide.msg15": "代表メンバーとして設定された在職者はいません。",
   "inAir.itvResultV2.label.summary": "総合",
@@ -290,8 +281,7 @@
   "inAir.itvResultV2.label.entire_average_score": "全体平均点数",
   "inAir.itvResultV2.label.entire_average_score_blind": "全体平均点数ブラインド",
   "inAir.itvResultV2.label.entire_examinee_base": "全体受検者基準",
-  "result.v2Video.guide.msg1":
-      "영상을 재생할수 없는 환경입니다.<br> Microsoft Edge, Google Chrome, Firefox 등 <br> 데스크탑PC에서 재생이 가능합니다.",
+  "result.v2Video.guide.msg1":"영상을 재생할수 없는 환경입니다.<br> Microsoft Edge, Google Chrome, Firefox 등 <br> 데스크탑PC에서 재생이 가능합니다.",
   "result.v2Video.label.basic_question": "基本質問",
   "result.v2Video.label.situation_question": "状況質問",
   "result.v2Video.label.struct_question": "深層／構造化質問",
@@ -309,8 +299,7 @@
   "versionA.EXAM_STEP1AI_COMMON.label.capability_setting": "力量名変更細部設定",
   "versionA.EXAM_STEP1AI_COMMON.label.confirm": "確認",
   "versionA.EXAM_STEP1AI_COMMON.label.reset": "リセット",
-  "versionA.EXAM_STEP1AI_COMMON.guide.msg3":
-      "아래의 역량이름과 정의를 확인하시고 변경하고자 하는 역량 이름은 우측 공란에 작성하시기 바랍니다. (12 byte 이내)",
+  "versionA.EXAM_STEP1AI_COMMON.guide.msg3":"以下の力量名と定義を確認し、変更しようとする力量名は右の空欄に作成してください。(12 byte 以内)",
   "versionA.EXAM_STEP1AI_COMMON.guide.msg4": "変更したくない力量は空欄で結構です。",
   "versionA.EXAM_STEP1AI_COMMON.label.change_capability": "変更したいコンピテンシー名",
   "versionA.EXAM_STEP1AI_COMMON.label.capability_name": "コンピテンシー名",
@@ -326,8 +315,7 @@
   "versionA.EXAM_STEP1AI_COMMON.label.basic_setting": "基本設定",
   "versionA.EXAM_STEP1AI_COMMON.label.screening_name": "典型名",
   "versionA.EXAM_STEP1AI_COMMON.label.test_period": "受検期間",
-  "versionA.EXAM_STEP1AI_COMMON.guide.msg9":
-      "※ 검사 종료 날짜 기준으로 14일 후에 포인트 정산이 이루어지며, 정산이 시작되면 응시기간 및 응시자 변경이 불가능합니다.",
+  "versionA.EXAM_STEP1AI_COMMON.guide.msg9":"※ 受験終了日付を基準に14日後にポイント精算が行われ、精算が開始すると受験期間及び受験者変更が不可能です。",
   "versionA.EXAM_STEP1AI_COMMON.label.test_start_day": "受検開始日",
   "versionA.EXAM_STEP1AI_COMMON.label.test_start_time": "受検開始時刻",
   "versionA.EXAM_STEP1AI_COMMON.label.test_end_day": "受検終了日",
@@ -374,8 +362,7 @@
   "versionA.EXAM_STEP1AI_COMMON.label.capability_name_use": "コンピテンシー名変更設定",
   "versionA.EXAM_STEP1AI_COMMON.label.setting": "設定",
   "versionA.EXAM_STEP1AI_COMMON.label.selected_question": "個の質問設定済み",
-  "versionA.EXAM_STEP1AI_COMMON.guide.msg19":
-      "※ 변경된 역량명은 지원자 개별 결과표에만 적용됩니다. (엑셀 결과표에는 변경된 사항이 적용되지 않습니다)",
+  "versionA.EXAM_STEP1AI_COMMON.guide.msg19":"※ 변경된 역량명은 지원자 개별 결과표에만 적용됩니다. (엑셀 결과표에는 변경된 사항이 적용되지 않습니다)",
   "versionA.EXAM_STEP1AI_COMMON.label.agreement": "情報提供同意書管理",
   "versionA.EXAM_STEP4AI_COMMON.guide.msg1": "カスタマイズ質問設定が完了されませんでした。",
   "versionA.EXAM_STEP4AI_COMMON.alert.msg1": "設定を保存しますか？",
@@ -410,8 +397,7 @@
   "versionA.EXAM_STEP4AI_COMMON.label.job_question_register": "職群別質問登録",
   "versionA.EXAM_STEP4AI_COMMON.label.all_question_register": "一括質問登録",
   "versionA.EXAM_STEP4AI_COMMON.label.confirm": "確認",
-  "versionA.EXAM_STEP4AI_COMMON.guide.msg6":
-      "이미 응시를 시작했거나 기존 질문에 답변을 완료한 응시자가 존재하여 설정 변경이 불가합니다.<br><br>해당 응시자를 \"결과초기화\" 하신 후 진행해주세요.",
+  "versionA.EXAM_STEP4AI_COMMON.guide.msg6":"이미 응시를 시작했거나 기존 질문에 답변을 완료한 응시자가 존재하여 설정 변경이 불가합니다.<br><br>해당 응시자를 \"결과초기화\" 하신 후 진행해주세요.",
   "versionA.EXAM_STEP4AI_COMMON.guide.msg7": "質問内容を入力してください。",
   "versionA.EXAM_STEP4AI_COMMON.label.reset": "リセット",
   "versionA.EXAM_STEP4AI_COMMON.alert.msg2": "リセットしますか？",
@@ -444,8 +430,7 @@
   "versionB.EXAM_STEP1AI_COMMON.label.capability_setting": "力量名変更細部設定",
   "versionB.EXAM_STEP1AI_COMMON.label.confirm": "確認",
   "versionB.EXAM_STEP1AI_COMMON.label.reset": "リセット",
-  "versionB.EXAM_STEP1AI_COMMON.guide.msg3":
-      "아래의 역량이름과 정의를 확인하시고 변경하고자 하는 역량 이름은 우측 공란에 작성하시기 바랍니다. (12 byte 이내)",
+  "versionB.EXAM_STEP1AI_COMMON.guide.msg3":"以下の力量名と定義を確認し、変更しようとする力量名は右の空欄に作成してください。(12 byte 以内)",
   "versionB.EXAM_STEP1AI_COMMON.guide.msg4": "変更したくない力量は空欄で結構です。",
   "versionB.EXAM_STEP1AI_COMMON.label.change_capability": "変更したいコンピテンシー名",
   "versionB.EXAM_STEP1AI_COMMON.label.cpability_name": "コンピテンシー名",
@@ -473,8 +458,7 @@
   "versionB.EXAM_STEP1AI_COMMON.label.newcomer": "新卒",
   "versionB.EXAM_STEP1AI_COMMON.label.career": "中途",
   "versionB.EXAM_STEP1AI_COMMON.label.test_period": "受検期間",
-  "versionB.EXAM_STEP1AI_COMMON.guide.msg8":
-      "검사 종료 날짜 기준으로 14일 후에 포인트 정산이 이루어지며, 정산이 시작되면 응시기간 및 응시자 변경이 불가능합니다.",
+  "versionB.EXAM_STEP1AI_COMMON.guide.msg8":"검사 종료 날짜 기준으로 14일 후에 포인트 정산이 이루어지며, 정산이 시작되면 응시기간 및 응시자 변경이 불가능합니다.",
   "versionB.EXAM_STEP1AI_COMMON.label.test_start_day": "受検開始日",
   "versionB.EXAM_STEP1AI_COMMON.label.test_start_time": "受検開始時刻",
   "versionB.EXAM_STEP1AI_COMMON.label.test_end_day": "受検終了日",
@@ -543,8 +527,7 @@
   "versionB.EXAM_STEP4AI_COMMON.label.job_question_register": "職群別質問登録",
   "versionB.EXAM_STEP4AI_COMMON.label.all_question_register": "一括質問登録",
   "versionB.EXAM_STEP4AI_COMMON.label.confirm": "確認",
-  "versionB.EXAM_STEP4AI_COMMON.guide.msg6":
-      "이미 응시를 시작했거나 기존 질문에 답변을 완료한 응시자가 존재하여 설정 변경이 불가합니다.<br>해당 응시자를 \"결과초기화\" 하신 후 진행해주세요.",
+  "versionB.EXAM_STEP4AI_COMMON.guide.msg6":"이미 응시를 시작했거나 기존 질문에 답변을 완료한 응시자가 존재하여 설정 변경이 불가합니다.<br>해당 응시자를 \"결과초기화\" 하신 후 진행해주세요.",
   "versionB.EXAM_STEP4AI_COMMON.guide.msg7": "質問内容を入力してください。",
   "versionB.EXAM_STEP4AI_COMMON.label.reset": "リセット",
   "versionB.EXAM_STEP4AI_COMMON.alert.msg2": "リセットしますか。",
@@ -571,13 +554,11 @@
   "versionB.EXAM_STEP4AI_COMMON.label.japanes": "日本語",
   "versionB.EXAM_STEP4AI_COMMON.label.select": "選択",
   "versionB.EXAM_STEP4AI_COMMON.label.each": "個",
-  "versionB.EXAM_STEP4AI_COMMON.guide.msg15":
-      "\"순서 섞기\" 기능을 활용하시면 응시자들에 임의로 질문이 주어집니다.<br>Ex. 10개의 질문을 등록 후 사용 질문 개수를 3개로 설정하면 10개 중 3개 질문이 무작위로 제시됩니다.<br>외국어로 질문하고 싶다면 \"출력 언어 설정\" 기능을 활용하십시오. 폰트가 깨지는 현상을 방지할 수 있습니다.",
+  "versionB.EXAM_STEP4AI_COMMON.guide.msg15":"\"순서 섞기\" 기능을 활용하시면 응시자들에 임의로 질문이 주어집니다.<br>Ex. 10개의 질문을 등록 후 사용 질문 개수를 3개로 설정하면 10개 중 3개 질문이 무작위로 제시됩니다.<br>외국어로 질문하고 싶다면 \"출력 언어 설정\" 기능을 활용하십시오. 폰트가 깨지는 현상을 방지할 수 있습니다.",
   "versionB.EXAM_STEP4AI_COMMON.label.order_mix": "シャッフル",
   "versionB.EXAM_STEP4AI_COMMON.label.question_count": "使用質問数",
   "versionB.EXAM_STEP4AI_COMMON.label.language_setting": "言語設定",
-  "versionB.EXAM_STEP4AI_COMMON.guide.msg16":
-      "이미 응시를 시작했거나 기존 질문에 답변을 완료한 응시자가 존재하여 설정 변경이 불가합니다.<br>해당 응시자를 \"결과초기화\" 하신 후 진행해주세요.",
+  "versionB.EXAM_STEP4AI_COMMON.guide.msg16":"이미 응시를 시작했거나 기존 질문에 답변을 완료한 응시자가 존재하여 설정 변경이 불가합니다.<br>해당 응시자를 \"결과초기화\" 하신 후 진행해주세요.",
   "versionB.EXAM_STEP4AI_COMMON.guide.msg17": "質問を設定してください。",
   "versionB.EXAM_STEP4AI_COMMON.guide.msg18": "質問の内容を入力してください。",
   "versionB.EXAM_STEP4AI_COMMON.guide.msg19": "使用質問数を選択するか、シャッフルをOFFにしてください。",
@@ -603,8 +584,7 @@
   "versionB.EXAM_STEP5AI_COMMON.label.reset": "リセット",
   "versionB.EXAM_STEP5AI_COMMON.guide.msg6": "メンバーがいません。",
   "versionB.EXAM_STEP5AI_COMMON.guide.msg7": "※ 受検者の区分が [代表/類似メンバー対象者]に設定された在職者AI面接結果が設定に必要です。",
-  "versionB.EXAM_STEP5AI_COMMON.guide.msg8":
-      "[대표/유사 구성원 대상자]로 설정된 재직자 검사가 없을 경우, [사용안함]으로 체크 후 다음으로 진행하시기 바랍니다.",
+  "versionB.EXAM_STEP5AI_COMMON.guide.msg8":"[대표/유사 구성원 대상자]로 설정된 재직자 검사가 없을 경우, [사용안함]으로 체크 후 다음으로 진행하시기 바랍니다.",
   "versionB.EXAM_STEP5AI_COMMON.label.change_capability": "変更コンピテンシー名",
   "versionB.EXAM_STEP5AI_COMMON.label.cpability_name": "コンピテンシー名",
   "versionB.EXAM_STEP5AI_COMMON.label.definition": "定義",
@@ -631,8 +611,7 @@
   "versionB.EXAM_STEP5AI_COMMON.error.msg1": "ファイルのアップロードに失敗しました。間違った形式のデータを修正して再試行してください。",
   "versionB.EXAM_STEP5AI_COMMON.error.msg2": "ファイルアップロードを失敗しました。またアップロードしてください。",
   "versionB.EXAM_STEP5AI_COMMON.error.msg3": "おすすめのサイズ(3MB)に合うファイルをアップロードしてください。",
-  "versionB.EXAM_STEP5AI_COMMON.guide.msg9":
-      "최대 3MB의 jpg 파일을 업로드 할 수 있습니다.<br/>권장사이즈는 300x360입니다.(2.5 x 3 증명사진)",
+  "versionB.EXAM_STEP5AI_COMMON.guide.msg9":"최대 3MB의 jpg 파일을 업로드 할 수 있습니다.<br/>권장사이즈는 300x360입니다.(2.5 x 3 증명사진)",
   "versionB.EXAM_STEP5AI_COMMON.label.hidden": "個の隠し設定がある",
   "versionB.EXAM_STEP5AI_COMMON.label.result_preview": "結果表の事前閲覧",
   "versionB.EXAM_STEP5AI_COMMON.guide.msg10": "結果表でブラインド処理しようとする項目をOFF処理し、該当する項目を除外して結果表が出力されます。",
@@ -646,20 +625,16 @@
   "versionB.EXAM_STEP5AI_COMMON.label.setting": "設定",
   "versionB.EXAM_STEP5AI_COMMON.guide.msg11": "※変更された設定は、結果表を印刷する時にも同様に適用されま。",
   "versionB.EXAM_STEP5AI_COMMON.label.score_kind": "点数種類",
-  "versionB.EXAM_STEP5AI_COMMON.guide.msg12":
-      "※ T점수와 백분위는 서로 호환 가능하지만, 표현되는 점수의 의미와 범위가 다르므로 해당 부분을 고려하여 설정하시기 바랍니다.",
+  "versionB.EXAM_STEP5AI_COMMON.guide.msg12":"※ T점수와 백분위는 서로 호환 가능하지만, 표현되는 점수의 의미와 범위가 다르므로 해당 부분을 고려하여 설정하시기 바랍니다.",
   "versionB.EXAM_STEP5AI_COMMON.label.tscore": "T点数",
   "versionB.EXAM_STEP5AI_COMMON.guide.msg13": "応募者の原点数を平均が50点、標準偏差が10点の分布で変換した点数です。",
   "versionB.EXAM_STEP5AI_COMMON.guide.msg14": "T点数は応募者間の相対的な水準を比べ易くするために標準化したものです。",
-  "versionB.EXAM_STEP5AI_COMMON.guide.msg15":
-      "평균이 50점이므로 점수가 50점보다 높을 때는 평균 이상, 50점보다 낮을 때는 평균 이하로 평가 할 수 있습니다.",
+  "versionB.EXAM_STEP5AI_COMMON.guide.msg15":"평균이 50점이므로 점수가 50점보다 높을 때는 평균 이상, 50점보다 낮을 때는 평균 이하로 평가 할 수 있습니다.",
   "versionB.EXAM_STEP5AI_COMMON.guide.msg16": "T点数は最少20点、最大80点の範囲を持っています。",
   "versionB.EXAM_STEP5AI_COMMON.label.percentile_score": "パーセンタイル点数",
   "versionB.EXAM_STEP5AI_COMMON.guide.msg17": "応募者の水準が規準集団内で持つ相対的な位置をパーセンタイルに変換した点数です。",
-  "versionB.EXAM_STEP5AI_COMMON.guide.msg18":
-      "99점은 이 점수보다 낮은 규준 집단 지원자가 99%라는 것으로, 지원자의 역량 수준이 규준 내 상위 1%임을 의미합니다.",
-  "versionB.EXAM_STEP5AI_COMMON.guide.msg19":
-      "반대로 1점은 이 점수보다 낮은 규준 집단 지원자가 1%라는 것으로 규준 내 상위 하위 1%임을 의미합니다.",
+  "versionB.EXAM_STEP5AI_COMMON.guide.msg18":"99점은 이 점수보다 낮은 규준 집단 지원자가 99%라는 것으로, 지원자의 역량 수준이 규준 내 상위 1%임을 의미합니다.",
+  "versionB.EXAM_STEP5AI_COMMON.guide.msg19":"반대로 1점은 이 점수보다 낮은 규준 집단 지원자가 1%라는 것으로 규준 내 상위 하위 1%임을 의미합니다.",
   "versionB.EXAM_STEP5AI_COMMON.guide.msg20": "パーセンタイルは最少1点、最大99点の範囲を持ちます。",
   "versionB.EXAM_STEP5AI_COMMON.alert.msg6": "代表メンバーを設定してください。",
   "versionB.EXAM_STEP5AI_COMMON.alert.msg7": "代表メンバー一括設定を選んでください。",
@@ -679,12 +654,10 @@
   "versionB.EXAM_STEP5AI_COMMON.label.capability_name_use": "コンピテンシー名の変更設定",
   "versionB.EXAM_STEP5AI_COMMON.label.capability_name_setting": "コンピテンシー名称変更",
   "versionB.EXAM_STEP5AI_COMMON.label.job_name_setting": "職種・職務の名称変更",
-  "versionB.EXAM_STEP5AI_COMMON.guide.msg21":
-      "※ 변경된 역량명은 지원자 개별 결과표에만 적용됩니다. (엑셀 결과표에는 변경된 사항이 적용되지 않습니다)",
+  "versionB.EXAM_STEP5AI_COMMON.guide.msg21":"※ 변경된 역량명은 지원자 개별 결과표에만 적용됩니다. (엑셀 결과표에는 변경된 사항이 적용되지 않습니다)",
   "versionB.EXAM_STEP5AI_COMMON.label.selected_question": "個の質問設定済み",
   "versionB.EXAM_STEP5AI_COMMON.label.representative_similar_member_setting": "代表／類似構成員設定",
-  "versionB.EXAM_STEP5AI_COMMON.guide.msg22":
-      "※ 변경된 직군/직무명은 지원자 개별 결과표에만 적용됩니다. (엑셀 결과표에는 변경된 사항이 적용되지 않습니다.)",
+  "versionB.EXAM_STEP5AI_COMMON.guide.msg22":"※ 변경된 직군/직무명은 지원자 개별 결과표에만 적용됩니다. (엑셀 결과표에는 변경된 사항이 적용되지 않습니다.)",
   "inAir.Isac.job_group.sales": "営業・販売",
   "inAir.Isac.job_group.development": "研究／開発",
   "inAir.Isac.job_group.service": "サービス",
@@ -792,17 +765,14 @@
   "inAir.Isac.error.msg5": "情報を読み込むのに失敗しました。もう一度お試しください。",
   "inAir.Isac.error.msg6": "登録された番号がありません。",
   "inAir.Isac.error.msg7": "spfに登録されたメールアドレスではありません。",
-  "inAir.Isac.error.msg8":
-      "SPF 등록이 확인되지 않은 메일주소입니다. SPF등록이 되지 않은 경우 입력해주신 메일 주소가 아닌 {0}로 보내는 주소가 자동 변환되어 발송됩니다.",
-  "inAir.Isac.error.msg9":
-      " SPF등록이 되지 않은 경우 입력해주신 메일 주소가 아닌 OOOO주소로 보내는 주소가 자동 변환되어 발송됩니다.",
+  "inAir.Isac.error.msg8":"SPF 등록이 확인되지 않은 메일주소입니다. SPF등록이 되지 않은 경우 입력해주신 메일 주소가 아닌 {0}로 보내는 주소가 자동 변환되어 발송됩니다.",
+  "inAir.Isac.error.msg9":" SPF등록이 되지 않은 경우 입력해주신 메일 주소가 아닌 OOOO주소로 보내는 주소가 자동 변환되어 발송됩니다.",
   "inAir.Isac.getPoint.guide.msg1": "受検者を登録するとポイントが差し引かれます。",
   "inAir.Isac.getPoint.guide.msg2": "未受検の受検者は、設定された受検期間の末日から2週間後、自動的にポイントが返却されます。",
   "inAir.Isac.getPoint.guide.msg3": "未完了、完了の受検者の場合、情報や結果を消してもポイントは返却されません。",
   "inAir.Isac.getPoint.label.remain": "残量案内",
   "inAir.layerPopEMail.guide.msg1": "検査の実施を案内します。",
-  "inAir.layerPopEMail.guide.msg2":
-      "안녕하세요. $성명$님, $회사명$입니다. 검사가 다음과 같이 진행되오니, 기간 내에 반드시 응시 완료하여 주시기 바랍니다.",
+  "inAir.layerPopEMail.guide.msg2":"안녕하세요. $성명$님, $회사명$입니다. 검사가 다음과 같이 진행되오니, 기간 내에 반드시 응시 완료하여 주시기 바랍니다.",
   "inAir.layerPopEMail.label.title": "[検査日程案内]",
   "inAir.layerPopEMail.label.content": "内容",
   "inAir.layerPopEMail.label.exam_period": "受検期間",
@@ -818,21 +788,16 @@
   "inAir.layerPopEMail.label.certificate_code2": "認証コード: $인증코드$",
   "inAir.layerPopEMail.label.notification": "有意事項",
   "inAir.layerPopEMail.guide.msg4": "１．検査を始める前に、必ず案内文をきちょうめんに熟知してください。",
-  "inAir.layerPopEMail.guide.msg5":
-      "2. 각 유형 혹은 페이지별로 시간이 할당되어 있습니다. 시간 안배에 신경 쓰면서 진행해 주시기 바랍니다.",
-  "inAir.layerPopEMail.guide.msg6":
-      "3. 최신버전의 인터넷 익스플로러(Internet Explorer 11) 또는 웹브라우저 크롬(Chrome)에서 검사를 응시해 주시기 바랍니다.",
-  "inAir.layerPopEMail.guide.msg7":
-      "4. 검사 응시 시작 후에는 중단 없이 한 번에 응시 완료하셔야 합니다. 온전히 검사에 집중할 수 있는 환경을 미리 준비하시기 바랍니다.",
-  "inAir.layerPopEMail.guide.msg8":
-      "5. 유선인터넷 환경에서 검사를 응시해 주시기 바라며, 사전에 네트워크 연결 상태를 확인하시기 바랍니다. 검사 도중 네트워크 연결이 끊길 경우 검사가 중지될 수 있으며, 이에 대한 불이익은 책임지지 않습니다.",
+  "inAir.layerPopEMail.guide.msg5":"2. 각 유형 혹은 페이지별로 시간이 할당되어 있습니다. 시간 안배에 신경 쓰면서 진행해 주시기 바랍니다.",
+  "inAir.layerPopEMail.guide.msg6":"3. 최신버전의 인터넷 익스플로러(Internet Explorer 11) 또는 웹브라우저 크롬(Chrome)에서 검사를 응시해 주시기 바랍니다.",
+  "inAir.layerPopEMail.guide.msg7":"4. 검사 응시 시작 후에는 중단 없이 한 번에 응시 완료하셔야 합니다. 온전히 검사에 집중할 수 있는 환경을 미리 준비하시기 바랍니다.",
+  "inAir.layerPopEMail.guide.msg8":"5. 유선인터넷 환경에서 검사를 응시해 주시기 바라며, 사전에 네트워크 연결 상태를 확인하시기 바랍니다. 검사 도중 네트워크 연결이 끊길 경우 검사가 중지될 수 있으며, 이에 대한 불이익은 책임지지 않습니다.",
   "inAir.layerPopEMail.guide.msg9": "6. モバイル環境では検査の受検が不可能です。",
   "inAir.layerPopEMail.guide.msg10": "７．問題流出時、法的な責任を問われます。",
   "inAir.layerPopEMail.guide.msg11": "オンライン面接受検に関する案内を申し上げます。",
   "inAir.layerPopEMail.label.name3": "$성명$",
   "inAir.layerPopEMail.label.company": "$회사명$",
-  "inAir.layerPopEMail.guide.msg12":
-      "안녕하세요. $성명$님, $회사명$입니다. 온라인 면접 다음과 같이 진행됩니다.<br>아래 내용을 반드시 숙지하시고, 온라인 면접 응시에 착오 없으시길 바랍니다.",
+  "inAir.layerPopEMail.guide.msg12":"안녕하세요. $성명$님, $회사명$입니다. 온라인 면접 다음과 같이 진행됩니다.<br>아래 내용을 반드시 숙지하시고, 온라인 면접 응시에 착오 없으시길 바랍니다.",
   "inAir.layerPopEMail.label.division": "区分",
   "inAir.layerPopEMail.label.exam_period2": "$응시기간$",
   "inAir.layerPopEMail.guide.msg13": "約$소요시간$分",
@@ -841,21 +806,17 @@
   "inAir.layerPopEMail.guide.msg14": "1. PCカメラ・マイク（ノートパソコンカメラ、内蔵マイク使用可能）",
   "inAir.layerPopEMail.guide.msg15": "２．マウスとキーボード",
   "inAir.layerPopEMail.guide.msg16": "3．質問に対する答え用意（例：自己紹介・長所と短所紹介）<br/>",
-  "inAir.layerPopEMail.guide.msg17":
-      "※ 이어폰을 사용하여 온라인 면접을 진행하시기 바랍니다. 외부로 출력되는 스피커를 사용할 경우 하울링(소리증폭현상)이 발생할 수 있습니다.",
+  "inAir.layerPopEMail.guide.msg17":"※ 이어폰을 사용하여 온라인 면접을 진행하시기 바랍니다. 외부로 출력되는 스피커를 사용할 경우 하울링(소리증폭현상)이 발생할 수 있습니다.",
   "inAir.layerPopEMail.guide.msg18": "※ システムチェックは受検期間以前に事前確認が可能です。",
   "inAir.layerPopEMail.guide.msg19": "受検者サイトで事前にカメラ・マイクのチェックをしてください。",
   "inAir.layerPopEMail.label.interview_guidance": "[受検案内]",
   "inAir.layerPopEMail.guide.msg20": "1. オンライン面接は質疑応答とゲームで構成されています。",
   "inAir.layerPopEMail.guide.msg21": "2. 質疑応答の場合、案内される質問に対して十分に考えた後でお答えください。",
-  "inAir.layerPopEMail.guide.msg22":
-      "3. 게임 수행의 경우 안내 되는 가이드의 내용을 잘 숙지하여 마우스 또는 키보드를 이용하여 게임을 수행하시면 됩니다.",
+  "inAir.layerPopEMail.guide.msg22":"3. 게임 수행의 경우 안내 되는 가이드의 내용을 잘 숙지하여 마우스 또는 키보드를 이용하여 게임을 수행하시면 됩니다.",
   "inAir.layerPopEMail.label.notification2": "[留意事項]",
   "inAir.layerPopEMail.guide.msg23": "1. インターネットブラウザークロム(Google Chrome)だけで受検することができます。",
-  "inAir.layerPopEMail.guide.msg24":
-      "2. 응시 시작 후에는 중단 없이 한 번에 응시 완료하셔야 합니다. 온전히 응시에 집중할 수 있는 환경을 미리 준비하시기 바랍니다.",
-  "inAir.layerPopEMail.guide.msg25":
-      "3. 유선인터넷 환경에서 응시해 주시기 바라며, 사전에 네트워크 연결 상태를 확인하시기 바랍니다. 응시 도중 네트워크 연결이 끊길 경우 응시가 중지될 수 있으며, 이에 대한 불이익은 책임지지 않습니다.",
+  "inAir.layerPopEMail.guide.msg24":"2. 응시 시작 후에는 중단 없이 한 번에 응시 완료하셔야 합니다. 온전히 응시에 집중할 수 있는 환경을 미리 준비하시기 바랍니다.",
+  "inAir.layerPopEMail.guide.msg25":"3. 유선인터넷 환경에서 응시해 주시기 바라며, 사전에 네트워크 연결 상태를 확인하시기 바랍니다. 응시 도중 네트워크 연결이 끊길 경우 응시가 중지될 수 있으며, 이에 대한 불이익은 책임지지 않습니다.",
   "inAir.layerPopEMail.guide.msg26": "4. 必ず使用中の全てのプログラムを終了してからオンライン面接を進行してください。",
   "inAir.layerPopEMail.guide.msg27": "5. 受検中にはリロード(F5),戻るボタンの使用が不可能です。",
   "inAir.layerPopEMail.guide.msg28": "6. モバイル環境では受検できません。",
@@ -868,8 +829,7 @@
   "inAir.layerPopEMail.error.msg2": "メール発送に失敗しました。もう一度お願いします。",
   "inAir.layerPopEMail.label.total": "総",
   "inAir.layerPopEMail.guide.msg32": "総〇名(100名まで画面に表示されます。)",
-  "inAir.layerPopEMail.error.msg3":
-      "등록된 SMS 발신번호가 존재하지 않습니다. [환경설정]에서 SMS 발신번호를 등록하신 후 진행하시기 바랍니다.",
+  "inAir.layerPopEMail.error.msg3":"등록된 SMS 발신번호가 존재하지 않습니다. [환경설정]에서 SMS 발신번호를 등록하신 후 진행하시기 바랍니다.",
   "inAir.layerPopEMail.label.sms_preTest": "案内メール事前テスト",
   "inAir.layerPopEMail.label.send": "発送",
   "inAir.layerPopEMail.label.cellphone_example": "携帯電話番号（例：010-0000-0000）",
@@ -880,12 +840,10 @@
   "inAir.layerPopEMail.error.msg5": "SMS発送に失敗しました。もう一度お願いします。",
   "inAir.sessionTimer.title": "自動ログアウト案内",
   "inAir.sessionTimer.label.login_postphone": "ログイン延長",
-  "inAir.sessionTimer.guide.msg1":
-      "지원자 정보의 안전한 보호를 위해<br/>로그인 후 <strong>약 70분</strong> 동안 서비스 이용이 없어 <b style=\"color:#e23250\">로그아웃</b> 됩니다.",
+  "inAir.sessionTimer.guide.msg1":"지원자 정보의 안전한 보호를 위해<br/>로그인 후 <strong>약 70분</strong> 동안 서비스 이용이 없어 <b style=\"color:#e23250\">로그아웃</b> 됩니다.",
   "inAir.sessionTimer.label.left_time": "自動ログアウトまで残り時間",
   "inAir.sessionTimer.label.second": "秒",
   "inAir.sessionTimer.alger.msg1": "ログイン時間を延長しますか。",
   "inAir.sessionTimer.label.re_login": "再ログイン",
-  "inAir.sessionTimer.guide.msg2":
-      "지원자 정보의 안전한 보호를 위해<br/>로그인 후 <strong>약 70분</strong> 동안 서비스 이용이 없어<br/><b style=\"color:#e23250\">자동 로그아웃</b> 되었습니다."
+  "inAir.sessionTimer.guide.msg2":"지원자 정보의 안전한 보호를 위해<br/>로그인 후 <strong>약 70분</strong> 동안 서비스 이용이 없어<br/><b style=\"color:#e23250\">자동 로그아웃</b> 되었습니다."
 };
