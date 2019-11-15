@@ -847,7 +847,3 @@ var inAirLangData = {
   "inAir.sessionTimer.label.re_login": "再ログイン",
   "inAir.sessionTimer.guide.msg2":"応募者情報を安全に保護するために<br/>ログイン後<strong>約70分</strong>の間サービス利用がないので<br/><b style=\"color:#e23250\">自動ログアウト</b>されました。"
 };
-
-define([], function () {
-	return inAirLangData;
-});
