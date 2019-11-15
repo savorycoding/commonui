@@ -1,4 +1,5 @@
-var inAirLangData = {
+(function(){
+  var inAirLangData = {
   "inAir.itvResult.label.excellent": "卓越",
   "inAir.itvResult.label.good": "優秀",
   "inAir.itvResult.label.normal_high": "中上",
@@ -846,4 +847,5 @@ var inAirLangData = {
   "inAir.sessionTimer.alger.msg1": "ログイン時間を延長しますか。",
   "inAir.sessionTimer.label.re_login": "再ログイン",
   "inAir.sessionTimer.guide.msg2":"応募者情報を安全に保護するために<br/>ログイン後<strong>約70分</strong>の間サービス利用がないので<br/><b style=\"color:#e23250\">自動ログアウト</b>されました。"
-};
+  };
+})()
