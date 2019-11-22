@@ -846,5 +846,7 @@ let inAirLangData = {
   "inAir.sessionTimer.label.second": "초",
   "inAir.sessionTimer.alger.msg1": "로그인 시간을 연장하시겠습니까?",
   "inAir.sessionTimer.label.re_login": "다시 로그인",
-  "inAir.sessionTimer.guide.msg2":"지원자 정보의 안전한 보호를 위해<br/>로그인 후 <strong>약 70분</strong> 동안 서비스 이용이 없어<br/><b style=\"color:#e23250\">자동 로그아웃</b> 되었습니다."
+  "inAir.sessionTimer.guide.msg2":"지원자 정보의 안전한 보호를 위해<br/>로그인 후 <strong>약 70분</strong> 동안 서비스 이용이 없어<br/><b style=\"color:#e23250\">자동 로그아웃</b> 되었습니다.",
+  "inAir.NoticePopup.label.block_popup": "다시 이 창을 열지 않기",
+  "inAir.NoticePopup.label.close_popup": "닫기"
 };
