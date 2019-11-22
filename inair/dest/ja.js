@@ -846,5 +846,7 @@ let inAirLangData = {
     "inAir.sessionTimer.label.second": "秒",
     "inAir.sessionTimer.alger.msg1": "ログイン時間を延長しますか。",
     "inAir.sessionTimer.label.re_login": "再ログイン",
-    "inAir.sessionTimer.guide.msg2": "応募者情報を安全に保護するために<br/>ログイン後<strong>約70分</strong>の間サービス利用がないので<br/><b style=\"color:#e23250\">自動ログアウト</b>されました。"
+    "inAir.sessionTimer.guide.msg2": "応募者情報を安全に保護するために<br/>ログイン後<strong>約70分</strong>の間サービス利用がないので<br/><b style=\"color:#e23250\">自動ログアウト</b>されました。",
+    "inAir.NoticePopup.label.block_popup": "これ以上見ない",
+    "inAir.NoticePopup.label.close_popup": "閉じる"
 };
