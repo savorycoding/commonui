@@ -751,7 +751,7 @@
   "inAir.Isac.ProcessTab.talent_setting": "人材類型アンケート",
   "inAir.Isac.ProcessTab.detail_setting": "詳細設定",
   "inAir.Isac.getPoint.error.msg1": "該当typeが存在しません。",
-  "inAir.Isac.getPoint.label.guidance": "各製品の購入ポイントの案内",
+  "inAir.Isac.getPoint.label.guidance": "各製品の購入ポイントの案内!!!!!!!!!!!!!!!!!!!!!",
   "inAir.Isac.getPoint.label.infinite": "無制限",
   "inAir.Isac.getPoint.label.own_point": "保有ポイント",
   "inAir.Isac.getPoint.label.use_available": "使用可能",
