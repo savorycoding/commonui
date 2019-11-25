@@ -281,7 +281,7 @@
   "inAir.itvResultV2.label.entire_average_score": "全体平均点数",
   "inAir.itvResultV2.label.entire_average_score_blind": "全体平均点数ブラインド",
   "inAir.itvResultV2.label.entire_examinee_base": "全体受検者基準",
-  "inAir.itvResultV2.guide.msg22": "직군 적합도의 세부사항은<br>결과표 3p에서 확인하시기 바랍니다.",
+  "inAir.itvResultV2.guide.msg22": "職種適合度の詳細は<br>結果表の3pから確認してください。",
   "result.v2Video.guide.msg1":"動画の再生ができない環境です。<br> Microsoft Edge, Google Chrome, Firefoxなどの <br> PC環境で再生ができます。",
   "result.v2Video.label.basic_question": "基本質問",
   "result.v2Video.label.situation_question": "状況質問",
