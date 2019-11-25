@@ -1,5 +1,4 @@
 ﻿let inAirLangData = {
-  "inAir.itvResult.label.immediately": "바로적용됩니땅",
   "inAir.itvResult.label.excellent": "卓越",
   "inAir.itvResult.label.good": "優秀",
   "inAir.itvResult.label.normal_high": "中上",
