@@ -281,6 +281,7 @@ let inAirLangData = {
   "inAir.itvResultV2.label.entire_average_score": "전체 평균 점수",
   "inAir.itvResultV2.label.entire_average_score_blind": "전체 평균 점수 블라인드",
   "inAir.itvResultV2.label.entire_examinee_base": "전체 응시자 기준 ",
+  "inAir.itvResultV2.guide.msg22": "직군 적합도의 세부사항은<br>결과표 3p에서 확인하시기 바랍니다.",
   "result.v2Video.guide.msg1":"영상을 재생할수 없는 환경입니다.<br> Microsoft Edge, Google Chrome, Firefox 등 <br> 데스크탑PC에서 재생이 가능합니다.",
   "result.v2Video.label.basic_question": "기본 질문",
   "result.v2Video.label.situation_question": "상황 질문",
