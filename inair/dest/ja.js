@@ -799,7 +799,7 @@
   "inAir.layerPopEMail.guide.msg11": "オンライン面接受検に関する案内を申し上げます。",
   "inAir.layerPopEMail.label.name3": "$성명$",
   "inAir.layerPopEMail.label.company": "$회사명$",
-  "inAir.layerPopEMail.guide.msg12":"こんにちは！$성명$様, $회사명$です。オンライン面接は次のように進行されます。＜br＞下の内容を必ず熟知して、オンライン面接受検に間違いのないようにお願いします。",
+  "inAir.layerPopEMail.guide.msg12":"こんにちは。$성명$さん、$회사명$です。オンラインコンピテンシー検査が次のように行われます。<br>以下の内容を必ず理解し、受検に間違いないようお願いします。",
   "inAir.layerPopEMail.label.division": "区分",
   "inAir.layerPopEMail.label.exam_period2": "$응시기간$",
   "inAir.layerPopEMail.guide.msg13": "約$소요시간$分",
