@@ -808,7 +808,7 @@
   "inAir.layerPopEMail.guide.msg14": "1. PCカメラ・マイク（ノートパソコンカメラ、内蔵マイク使用可能）",
   "inAir.layerPopEMail.guide.msg15": "２．マウスとキーボード",
   "inAir.layerPopEMail.guide.msg16": "3．質問に対する答え用意（例：自己紹介/強み・弱みなど）<br/>",
-  "inAir.layerPopEMail.guide.msg17":"※イヤホーンを使ってオンライン面接を進行してください。外部に出力するスピーカーを使う場合、ハウリング（音増幅現象）の発生可能性があります。",
+  "inAir.layerPopEMail.guide.msg17":"※オンライン面接は必ずイヤホンを使用してください。外部に出力されるスピーカーなどを使用する場合、ハウリング（鳴音）が生じる可能性があります。",
   "inAir.layerPopEMail.guide.msg18": "※ システムチェックは受検期間以前に事前確認が可能です。",
   "inAir.layerPopEMail.guide.msg19": "受検者サイトで事前にカメラ・マイクのチェックをしてください。",
   "inAir.layerPopEMail.label.interview_guidance": "[受検案内]",
