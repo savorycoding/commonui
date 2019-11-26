@@ -459,7 +459,7 @@
   "versionB.EXAM_STEP1AI_COMMON.label.newcomer": "新卒",
   "versionB.EXAM_STEP1AI_COMMON.label.career": "中途",
   "versionB.EXAM_STEP1AI_COMMON.label.test_period": "受検期間",
-  "versionB.EXAM_STEP1AI_COMMON.guide.msg8":"受検終了日から14日後、ポイントが精算されます。精算が始まると、受検期間及び受検者の変更ができなくなります。",
+  "versionB.EXAM_STEP1AI_COMMON.guide.msg8":"受検終了日から14日後、ポイントが精算されます。精算が始まると、受検期間及び受検者の変更はできません。",
   "versionB.EXAM_STEP1AI_COMMON.label.test_start_day": "受検開始日",
   "versionB.EXAM_STEP1AI_COMMON.label.test_start_time": "受検開始時刻",
   "versionB.EXAM_STEP1AI_COMMON.label.test_end_day": "受検終了日",
