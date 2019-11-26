@@ -822,7 +822,7 @@
   "inAir.layerPopEMail.guide.msg26": "4. 必ず起動中のソフト全てを終了した後、オンライン面接を行ってください。",
   "inAir.layerPopEMail.guide.msg27": "5. 受検中には更新(F5)、戻るボタンは使えません。",
   "inAir.layerPopEMail.guide.msg28": "6. モバイル環境では受検できません。",
-  "inAir.layerPopEMail.guide.msg29": "7. 内容のキャプチャー及び動画の撮影をする場合、法的責任を問われます。",
+  "inAir.layerPopEMail.guide.msg29": "7. 内容のキャプチャー及び動画の撮影をする場合、法的責任を問われる可能性があります。",
   "inAir.layerPopEMail.label.receive_address": "宛先",
   "inAir.layerPopEMail.label.email": "このメール(例:user@email.com)",
   "inAir.layerPopEMail.guide.msg30": "案内メール送信を完了しました。",
