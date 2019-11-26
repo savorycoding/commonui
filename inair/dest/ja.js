@@ -625,7 +625,7 @@
   "versionB.EXAM_STEP5AI_COMMON.label.department": "部署",
   "versionB.EXAM_STEP5AI_COMMON.label.result_use": "結果表の表示設定",
   "versionB.EXAM_STEP5AI_COMMON.label.setting": "設定",
-  "versionB.EXAM_STEP5AI_COMMON.guide.msg11": "※変更された設定は、結果表を印刷する時にも同様に適用されま。",
+  "versionB.EXAM_STEP5AI_COMMON.guide.msg11": "※変更された設定は、結果表を印刷する時にも同様に適用されます。",
   "versionB.EXAM_STEP5AI_COMMON.label.score_kind": "点数種類",
   "versionB.EXAM_STEP5AI_COMMON.guide.msg12":"※T点数とパーセンタイルはお互い互換できますが、表現される点数の意味と範囲が違うのでそれを考慮して設定してください。",
   "versionB.EXAM_STEP5AI_COMMON.label.tscore": "T点数",
