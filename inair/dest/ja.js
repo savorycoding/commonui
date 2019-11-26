@@ -788,7 +788,7 @@
   "inAir.layerPopEMail.label.name2": "名前：$성명$",
   "inAir.layerPopEMail.label.certificate_code": "認証コード:",
   "inAir.layerPopEMail.label.certificate_code2": "認証コード: $인증코드$",
-  "inAir.layerPopEMail.label.notification": "有意事項",
+  "inAir.layerPopEMail.label.notification": "留意事項",
   "inAir.layerPopEMail.guide.msg4": "１．検査を始める前に、必ず案内文をきちょうめんに熟知してください。",
   "inAir.layerPopEMail.guide.msg5":"２．各類型またはページごとに時間が限られています。時間の案配を気にしながら進めてください。",
   "inAir.layerPopEMail.guide.msg6":"3．最新バージョンのインターネットイクスプローラ(Internet Explorer 11) またはウェブブラウザークロム(Chrome)で検査を受検してください。",
