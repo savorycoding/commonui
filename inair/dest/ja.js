@@ -328,7 +328,7 @@
   "versionA.EXAM_STEP1AI_COMMON.guide.msg11": "リスニングするテキストを入力して事前に声を確認してください。",
   "versionA.EXAM_STEP1AI_COMMON.label.voice_listen": "音声を聴く",
   "versionA.EXAM_STEP1AI_COMMON.label.voice_download": "[音声のダウンロード]",
-  "versionA.EXAM_STEP1AI_COMMON.label.closing_setting": "締め言葉の設定",
+  "versionA.EXAM_STEP1AI_COMMON.label.closing_setting": "終わりの言葉設定",
   "versionA.EXAM_STEP1AI_COMMON.guide.msg12": "受検完了の際に表示される、応募者への終わりの言葉を設定してください。",
   "versionA.EXAM_STEP1AI_COMMON.label.default_closing": "基本締め言葉を適用",
   "versionA.EXAM_STEP1AI_COMMON.guide.msg13": "※終わりの言葉は最大3つまで登録できます。",
