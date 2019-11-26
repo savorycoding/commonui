@@ -38,7 +38,7 @@
   "inAir.itvResult.guide.msg2": "〇〇さんのオンライン面接は完了されており、分析の結果は信頼できます。",
   "inAir.itvResult.guide.msg3": "〇〇さんのオンライン面接は完了されており、分析の結果は信頼できます。しかし、正常ではない受検が予想される部分があるため、実際に映像を確認してください。",
   "inAir.itvResult.guide.msg4": "音声それとも映像のデータが不安定であり、正常に分析できません。黄色いマークの付いた映像を確認してください。",
-  "inAir.itvResult.label.confirm": "確認",
+  "inAir.itvResult.label.confirm": "保存",
   "inAir.itvResult.label.support": "応募",
   "inAir.itvResult.label.field": "現職",
   "inAir.itvResult.label.job_fitt": "職種適合",
