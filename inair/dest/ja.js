@@ -818,7 +818,7 @@
   "inAir.layerPopEMail.label.notification2": "[留意事項]",
   "inAir.layerPopEMail.guide.msg23": "1．Google Chromeブラウザでのみ受検できます。",
   "inAir.layerPopEMail.guide.msg24":"2. 受検開始後には一時停止などの機能はありません。受検に集中できる環境で開始してください。",
-  "inAir.layerPopEMail.guide.msg25":"3. 有線インターネット環境で受検してください。事前にネットワークの連結状態を確認してください。受検途中ネットワークの連結が途切れる場合、受検が中断される可能性があり、その責任はすべて本人にあります。",
+  "inAir.layerPopEMail.guide.msg25":"3. インターネットへの接続は有線ケーブルを利用してください。また、事前にネットワークの接続状態を確認してください。受検中ネットワーク接続が切れる場合、受検が中止される可能性があり、その件に対する不利益は責任を負いかねます。",
   "inAir.layerPopEMail.guide.msg26": "4. 必ず使用中の全てのプログラムを終了してからオンライン面接を進行してください。",
   "inAir.layerPopEMail.guide.msg27": "5. 受検中にはリロード(F5),戻るボタンの使用が不可能です。",
   "inAir.layerPopEMail.guide.msg28": "6. モバイル環境では受検できません。",
