@@ -816,7 +816,7 @@
   "inAir.layerPopEMail.guide.msg21": "2. 質疑応答の場合、案内される質問に対して十分に考えた後でお答えください。",
   "inAir.layerPopEMail.guide.msg22":"3. ゲームの場合、案内されるガイドの内容をちゃんと理解した上でマウスまたはキーボードを利用して行ってください。",
   "inAir.layerPopEMail.label.notification2": "[留意事項]",
-  "inAir.layerPopEMail.guide.msg23": "1. インターネットブラウザークロム(Google Chrome)だけで受検することができます。",
+  "inAir.layerPopEMail.guide.msg23": "1．Google Chromeブラウザでのみ受検できます。",
   "inAir.layerPopEMail.guide.msg24":"2. 受検を始めた後には中断なしに一回に受検を完了してください。完全に受検に集中できる環境をお先に準備してください。",
   "inAir.layerPopEMail.guide.msg25":"3. 有線インターネット環境で受検してください。事前にネットワークの連結状態を確認してください。受検途中ネットワークの連結が途切れる場合、受検が中断される可能性があり、その責任はすべて本人にあります。",
   "inAir.layerPopEMail.guide.msg26": "4. 必ず使用中の全てのプログラムを終了してからオンライン面接を進行してください。",
