@@ -820,7 +820,7 @@
   "inAir.layerPopEMail.guide.msg24":"2. 受検開始後には一時停止などの機能はありません。受検に集中できる環境で開始してください。",
   "inAir.layerPopEMail.guide.msg25":"3. インターネットへの接続は有線ケーブルを利用してください。また、事前にネットワークの接続状態を確認してください。受検中ネットワーク接続が切れる場合、受検が中止される可能性があり、その件に対する不利益は責任を負いかねます。",
   "inAir.layerPopEMail.guide.msg26": "4. 必ず起動中のソフト全てを終了した後、オンライン面接を行ってください。",
-  "inAir.layerPopEMail.guide.msg27": "5. 受検中にはリロード(F5),戻るボタンの使用が不可能です。",
+  "inAir.layerPopEMail.guide.msg27": "5. 受検中には更新(F5)、戻るボタンは使えません。",
   "inAir.layerPopEMail.guide.msg28": "6. モバイル環境では受検できません。",
   "inAir.layerPopEMail.guide.msg29": "7. 内容のキャプチャー及び動画の撮影をする場合、法的責任を問われます。",
   "inAir.layerPopEMail.label.receive_address": "宛先",
