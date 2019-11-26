@@ -795,7 +795,7 @@
   "inAir.layerPopEMail.guide.msg7":"４．検査の受検を始めてからは中断なしに一回に受検を完了してください。まともに検査に集中できる環境を先に準備してください。",
   "inAir.layerPopEMail.guide.msg8":"5．検査の受検は有線インターネット環境で行ってください。事前にネットワークの連結状態を確認してください。ネットワーク連結が途切れる場合検査が中断される可能性があり、それによる不利益に関する責任はすべて本人にあります。",
   "inAir.layerPopEMail.guide.msg9": "6. モバイル環境では検査の受検が不可能です。",
-  "inAir.layerPopEMail.guide.msg10": "７．問題流出時、法的な責任を問われます。",
+  "inAir.layerPopEMail.guide.msg10": "７．本検査の内容を漏洩する場合、法的責任を問われる可能性があります。",
   "inAir.layerPopEMail.guide.msg11": "オンライン面接受検に関する案内を申し上げます。",
   "inAir.layerPopEMail.label.name3": "$성명$",
   "inAir.layerPopEMail.label.company": "$회사명$",
