@@ -443,7 +443,7 @@
   "versionB.EXAM_STEP1AI_COMMON.label.all_apply": "一括適用",
   "versionB.EXAM_STEP1AI_COMMON.label.job_apply": "職種別の選択適用",
   "versionB.EXAM_STEP1AI_COMMON.label.result_use": "結果表の表示設定",
-  "versionB.EXAM_STEP1AI_COMMON.label.result_custom_use": "結果表でカスタマイズ設定表示",
+  "versionB.EXAM_STEP1AI_COMMON.label.result_custom_use": "結果表でカスタマイズ設定を表示する。",
   "versionB.EXAM_STEP1AI_COMMON.label.custom_setting_use": "カストマイズ設定の表示可否",
   "versionB.EXAM_STEP1AI_COMMON.label.custom_use": "カストマイズの使用可否",
   "versionB.EXAM_STEP1AI_COMMON.guide.msg5": "職種別の選択を行うためには、1つ以上の職種を選んでください。",
