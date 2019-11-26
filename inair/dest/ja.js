@@ -541,7 +541,7 @@
   "versionB.EXAM_STEP4AI_COMMON.guide.msg11": "質問は以下のプロセスで提示されます。",
   "versionB.EXAM_STEP4AI_COMMON.guide.msg12": "自己紹介、強み・弱みのような基本的な質問が提示されます。",
   "versionB.EXAM_STEP4AI_COMMON.label.situation_reaction2": "状況対処(状況質問)",
-  "versionB.EXAM_STEP4AI_COMMON.guide.msg13": "色々な状況に対する質問が提示され、応募者は実際のように答えることになります。（2個の質問）",
+  "versionB.EXAM_STEP4AI_COMMON.guide.msg13": "様々な状況に対する質問を提示し、受検者は実際に対応するように答えます。（2個の質問）",
   "versionB.EXAM_STEP4AI_COMMON.label.struct_conversation2": "深層対話(構造化質問)",
   "versionB.EXAM_STEP4AI_COMMON.guide.msg14": "応募者の反応特性を分析した結果を基に深層構造化質問が提示されます。",
   "versionB.EXAM_STEP4AI_COMMON.label.custom_question2": "カスタマイズ質問",
