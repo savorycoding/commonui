@@ -395,7 +395,7 @@
   "versionA.EXAM_STEP4AI_COMMON.label.question_content_setting": "質問内容設定",
   "versionA.EXAM_STEP4AI_COMMON.label.thinking_time_setting": "考える時間の設定可能範囲",
   "versionA.EXAM_STEP4AI_COMMON.label.response_time_setting": "答える時間の設定可能範囲",
-  "versionA.EXAM_STEP4AI_COMMON.label.job_question_register": "職種別質問登録",
+  "versionA.EXAM_STEP4AI_COMMON.label.job_question_register": "職種別の質問登録",
   "versionA.EXAM_STEP4AI_COMMON.label.all_question_register": "一括質問登録",
   "versionA.EXAM_STEP4AI_COMMON.label.confirm": "確認",
   "versionA.EXAM_STEP4AI_COMMON.guide.msg6":"既に受検を開始しているか、質問に答えている受検者がいるため、設定の変更ができません。<br><br>該当の受検者を「結果リセット」にした後、もう一度やり直してください。",
