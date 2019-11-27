@@ -586,7 +586,7 @@
   "versionB.EXAM_STEP5AI_COMMON.label.reset": "リセット",
   "versionB.EXAM_STEP5AI_COMMON.guide.msg6": "メンバーがいません。",
   "versionB.EXAM_STEP5AI_COMMON.guide.msg7": "※[代表/類似メンバー対象者]と区分・設定されている在職者のAI面接結果が設定に必要です。",
-  "versionB.EXAM_STEP5AI_COMMON.guide.msg8":"[代表/類似メンバー対象者]に設定された在職者検査がいない場合、[使用しない]にチェックしてから次へ進んでください。",
+  "versionB.EXAM_STEP5AI_COMMON.guide.msg8":"[代表/類似メンバー対象者]に設定された在職者の検査がない場合、[使用しない]にチェックした後、次へ進んでください。",
   "versionB.EXAM_STEP5AI_COMMON.label.change_capability": "変更コンピテンシー名",
   "versionB.EXAM_STEP5AI_COMMON.label.cpability_name": "コンピテンシー名",
   "versionB.EXAM_STEP5AI_COMMON.label.definition": "定義",
