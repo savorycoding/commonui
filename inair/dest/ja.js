@@ -363,7 +363,7 @@
   "versionA.EXAM_STEP1AI_COMMON.label.capability_name_use": "コンピテンシー名変更設定",
   "versionA.EXAM_STEP1AI_COMMON.label.setting": "設定",
   "versionA.EXAM_STEP1AI_COMMON.label.selected_question": "個の質問設定済み",
-  "versionA.EXAM_STEP1AI_COMMON.guide.msg19":"※変更されたコンピテンシー名は応募者の個別結果表にだけ適用されます。(アクセルの結果表は変わりません)",
+  "versionA.EXAM_STEP1AI_COMMON.guide.msg19":"※変更されたコンピテンシー名は応募者の個別結果表にだけ適用されます。(Excelの結果表には適用されません。)",
   "versionA.EXAM_STEP1AI_COMMON.label.agreement": "情報提供同意書管理",
   "versionA.EXAM_STEP4AI_COMMON.guide.msg1": "カスタマイズ質問設定が完了されませんでした。",
   "versionA.EXAM_STEP4AI_COMMON.alert.msg1": "保存しますか？",
