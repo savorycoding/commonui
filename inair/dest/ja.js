@@ -770,7 +770,7 @@
   "inAir.Isac.error.msg8":"SPFに登録されていないメールアドレスです。SPFに登録されていないメールアドレスは｛0｝と自動変換されて発送されます。",
   "inAir.Isac.error.msg9":"SPFに登録されていないメールアドレスです。SPFに登録されていないメールアドレスは〇〇〇〇のと自動変換されて発送されます。",
   "inAir.Isac.getPoint.guide.msg1": "受検者を登録するとポイントが差し引かれます。",
-  "inAir.Isac.getPoint.guide.msg2": "未受検の受検者は、設定された受検期間の末日から2週間後、自動的にポイントが返却されます。",
+  "inAir.Isac.getPoint.guide.msg2": "未受検の受検者は、設定された受検期間の末日から2週後、自動的にポイントが返却されます。",
   "inAir.Isac.getPoint.guide.msg3": "未完了、完了の受検者の場合、情報や結果を消してもポイントは返却されません。",
   "inAir.Isac.getPoint.label.remain": "残量案内",
   "inAir.layerPopEMail.guide.msg1": "検査の実施を案内します。",
