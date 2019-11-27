@@ -680,7 +680,7 @@
   "inAir.Isac.custom_set_status.detail_not_completed": "詳細設定アンケート未完了",
   "inAir.Isac.custom_set_status.completed": "完了",
   "inAir.Isac.interview_custom_set_status.basic_survey_undone": "基本情報アンケート未完了",
-  "inAir.Isac.interview_custom_set_status.talent_suvey_undone": "重要人材象設問未完了",
+  "inAir.Isac.interview_custom_set_status.talent_suvey_undone": "重要人材象アンケート未完了",
   "inAir.Isac.interview_custom_set_status.member_survey_undone": "在職者設定未完了",
   "inAir.Isac.interview_custom_set_status.done": "完了",
   "inAir.Isac.male_yn.yes": "男",
