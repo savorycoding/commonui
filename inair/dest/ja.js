@@ -731,7 +731,7 @@
   "inAir.Isac.exam_step.spc1": "同じ絵を作る",
   "inAir.Isac.exam_step.spc2": "同じ絵を当てる",
   "inAir.Isac.exam_step.mrt": "ブロックを積み上げる",
-  "inAir.Isac.exam_step.ddt": "補償選好",
+  "inAir.Isac.exam_step.ddt": "対価選好",
   "inAir.Isac.exam_step.fis2": "図形選好",
   "inAir.Isac.exam_step.ppt2": "好み推論",
   "inAir.Isac.reliability_code.response_reliability_impossibility": "信頼不可",
