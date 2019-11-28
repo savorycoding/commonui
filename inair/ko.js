@@ -495,7 +495,7 @@ let inAirLangData = {
   "versionB.EXAM_STEP1AI_COMMON.label.detail_capability": "세부역량 특성 표시 설정",
   "versionB.EXAM_STEP1AI_COMMON.label.fit_use": "직무적합도 표시 설정",
   "versionB.EXAM_STEP1AI_COMMON.label.agreement": "정보제공 동의서",
-  'versionB.EXAM_STEP1AI_COMMON.guide.msg17':'일괄적용 커스터 마이징을 선택하세요.',
+  "versionB.EXAM_STEP1AI_COMMON.guide.msg17":"일괄적용 커스터 마이징을 선택하세요.",
   "versionB.EXAM_STEP4AI_COMMON.guide.msg1": "커스터마이징 질문설정이 완료되지 않았습니다",
   "versionB.EXAM_STEP4AI_COMMON.alert.msg1": "설정을 저장하시겠습니까?",
   "versionB.EXAM_STEP4AI_COMMON.label.basic_question": "기본질문",
