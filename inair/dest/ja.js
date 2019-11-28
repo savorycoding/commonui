@@ -309,7 +309,7 @@
   "versionA.EXAM_STEP1AI_COMMON.guide.msg6": "職種別選択を行うためには、1つ以上の職種を選んでください。",
   "versionA.EXAM_STEP1AI_COMMON.guide.msg7": "終了した典型は終了日の前倒しができません。",
   "versionA.EXAM_STEP1AI_COMMON.guide.msg8": "この入力欄を書いてください。",
-  "versionA.EXAM_STEP1AI_COMMON.error.msg1": "外部サイトへのURLは必ず「http://」または「https://」から始まります。",
+  "versionA.EXAM_STEP1AI_COMMON.error.msg1": "外部サイトへのURLは必ず「http://」または「https://」と始まらなければいけません。",
   "versionA.EXAM_STEP1AI_COMMON.alert.msg1": "保存しますか？",
   "versionA.EXAM_STEP1AI_COMMON.error.msg2": "callbackがありません。",
   "versionA.EXAM_STEP1AI_COMMON.error.msg3": "APP_NAMEを入れてください。 ex) /mrs2/manager , /admin など",
