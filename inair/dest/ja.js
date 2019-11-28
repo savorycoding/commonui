@@ -481,7 +481,7 @@
   "versionB.EXAM_STEP1AI_COMMON.guide.msg15": "長い時間お疲れ様でした。良い結果が訪れますように！",
   "versionB.EXAM_STEP1AI_COMMON.label.external_link": "外部ページリンク設定",
   "versionB.EXAM_STEP1AI_COMMON.label.external_link_use": "外部リンク設定使用",
-  "versionB.EXAM_STEP1AI_COMMON.guide.msg16": "※ 受検完了後に外部のウェブページへの連結が必要な場合設定してください。",
+  "versionB.EXAM_STEP1AI_COMMON.guide.msg16": "※ 受検完了後、外部のウェブページへの連結が必要な場合に設定してください。",
   "versionB.EXAM_STEP1AI_COMMON.label.link_title": "リンクテキストを入力",
   "versionB.EXAM_STEP1AI_COMMON.label.external_link_name": "外部リンクテキスト",
   "versionB.EXAM_STEP1AI_COMMON.label.url": "URL入力",
