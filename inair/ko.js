@@ -278,6 +278,7 @@ let inAirLangData = {
   "inAir.itvResultV2.label.percentage": "백분위점수",
   "inAir.itvResultV2.label.top_rank4": "직군 기준 {0}등/ {1}명(상위 {2}%)",
   "inAir.itvResultV2.label.top_rank5": "{0}등 / {1}명(상위 {2}%)",
+  "inAir.itvResultV2.label.top_rank6": "전체 응시자 기준 {0}등/ {1}명(상위 {2}%)",
   "inAir.itvResultV2.label.entire_average_score": "전체 평균 점수",
   "inAir.itvResultV2.label.entire_average_score_blind": "전체 평균 점수 블라인드",
   "inAir.itvResultV2.label.entire_examinee_base": "전체 응시자 기준 ",
