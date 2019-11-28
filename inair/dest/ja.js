@@ -330,7 +330,7 @@
   "versionA.EXAM_STEP1AI_COMMON.label.voice_listen": "音声を聴く",
   "versionA.EXAM_STEP1AI_COMMON.label.voice_download": "[音声のダウンロード]",
   "versionA.EXAM_STEP1AI_COMMON.label.closing_setting": "終わりの言葉設定",
-  "versionA.EXAM_STEP1AI_COMMON.guide.msg12": "受検完了の際に表示される、応募者への終わりの言葉を設定してください。",
+  "versionA.EXAM_STEP1AI_COMMON.guide.msg12": "受検終了後、受検者に案内される終わりの言葉を設定してください。",
   "versionA.EXAM_STEP1AI_COMMON.label.default_closing": "定番の終わりの言葉を適用",
   "versionA.EXAM_STEP1AI_COMMON.guide.msg13": "※終わりの言葉は最大3つまで登録できます。",
   "versionA.EXAM_STEP1AI_COMMON.guide.msg14": "終わりの言葉を入力してください。",
