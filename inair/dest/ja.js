@@ -278,6 +278,7 @@
   "inAir.itvResultV2.label.percentage": "パーセンタイル",
   "inAir.itvResultV2.label.top_rank4": "職種内{0}位/{1}人(上位{2}%)",
   "inAir.itvResultV2.label.top_rank5": "{0}位/{1}人(上位{2}%)",
+  "inAir.itvResultV2.label.top_rank6": "전체 응시자 기준 {0}등/ {1}명(상위 {2}%)",
   "inAir.itvResultV2.label.entire_average_score": "全体平均点数",
   "inAir.itvResultV2.label.entire_average_score_blind": "全体平均点数ブラインド",
   "inAir.itvResultV2.label.entire_examinee_base": "全体受検者基準",
