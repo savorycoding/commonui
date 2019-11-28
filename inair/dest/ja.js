@@ -495,7 +495,7 @@
   "versionB.EXAM_STEP1AI_COMMON.label.detail_capability": "細部コンピテンシーの特性表示設定",
   "versionB.EXAM_STEP1AI_COMMON.label.fit_use": "職務適合度表示設定",
   "versionB.EXAM_STEP1AI_COMMON.label.agreement": "情報提供同意書管理",
-  'versionB.EXAM_STEP1AI_COMMON.guide.msg17':'일괄적용 커스터 마이징을 선택하세요.',
+  "versionB.EXAM_STEP1AI_COMMON.guide.msg17":"一括で適用するカスタマイズを選んでください。",
   "versionB.EXAM_STEP4AI_COMMON.guide.msg1": "カスタマイズ質問設定が完了されませんでした。",
   "versionB.EXAM_STEP4AI_COMMON.alert.msg1": "保存しますか？",
   "versionB.EXAM_STEP4AI_COMMON.label.basic_question": "基本質問",
