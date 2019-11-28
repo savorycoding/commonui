@@ -636,7 +636,7 @@
   "versionB.EXAM_STEP5AI_COMMON.label.percentile_score": "パーセンタイル点数",
   "versionB.EXAM_STEP5AI_COMMON.guide.msg17": "受検者の水準が規準集団内で持つ相対的な位置をパーセンタイルに変換した点数です。",
   "versionB.EXAM_STEP5AI_COMMON.guide.msg18":"99点はこの点数より低い規準集団の受検者が99％ということであり、受検者のコンピテンシーレベルが規準内で上位1%であることを意味します。",
-  "versionB.EXAM_STEP5AI_COMMON.guide.msg19":"逆に1点はこの点数より低い規準集団応募者が1%ということであり、規準内下位1%であることを意味します。",
+  "versionB.EXAM_STEP5AI_COMMON.guide.msg19":"逆に1点はこの点数より低い規準集団の受検者が1%ということであり、規準内下位1%であることを意味します。",
   "versionB.EXAM_STEP5AI_COMMON.guide.msg20": "パーセンタイルは最少1点、最大99点の範囲を持ちます。",
   "versionB.EXAM_STEP5AI_COMMON.alert.msg6": "代表メンバーを設定してください。",
   "versionB.EXAM_STEP5AI_COMMON.alert.msg7": "代表メンバー一括設定を選んでください。",
