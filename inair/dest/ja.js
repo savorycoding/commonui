@@ -616,7 +616,7 @@
   "versionB.EXAM_STEP5AI_COMMON.error.msg3": "おすすめのサイズ(3MB)に合うファイルをアップロードしてください。",
   "versionB.EXAM_STEP5AI_COMMON.guide.msg9":"最大３MBのjpgファイルをアップロードできます。<br/>おすすめのサイズは300ｘ360です。（2.5ｘ３証明写真）",
   "versionB.EXAM_STEP5AI_COMMON.label.hidden": "個がブラインド設定されました。",
-  "versionB.EXAM_STEP5AI_COMMON.label.result_preview": "結果表のプレビュー",
+  "versionB.EXAM_STEP5AI_COMMON.label.result_preview": "結果表プレビュー",
   "versionB.EXAM_STEP5AI_COMMON.guide.msg10": "結果表でブラインドしようとする項目をOFFにすると、該当の項目を除いた結果表が出力されます。",
   "versionB.EXAM_STEP5AI_COMMON.label.applicant": "応募者",
   "versionB.EXAM_STEP5AI_COMMON.label.member": "在職者",
