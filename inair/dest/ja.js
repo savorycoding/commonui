@@ -660,7 +660,7 @@
   "versionB.EXAM_STEP5AI_COMMON.guide.msg21":"※変更されたコンピテンシー名は受検者の個別結果表にだけ適用されます。(Excelの結果表には適用されません。)",
   "versionB.EXAM_STEP5AI_COMMON.label.selected_question": "個の質問設定済み",
   "versionB.EXAM_STEP5AI_COMMON.label.representative_similar_member_setting": "代表／類似構成員設定",
-  "versionB.EXAM_STEP5AI_COMMON.guide.msg22":"※変更された職種・職務の名は受検者の個別結果表にだけ適用されます。(Excelの結果表には適用されません。)",
+  "versionB.EXAM_STEP5AI_COMMON.guide.msg22":"※変更された職種・職務名は受検者の個別結果表にだけ適用されます。(Excelの結果表には適用されません。)",
   "inAir.Isac.job_group.sales": "営業・販売",
   "inAir.Isac.job_group.development": "研究／開発",
   "inAir.Isac.job_group.service": "サービス",
