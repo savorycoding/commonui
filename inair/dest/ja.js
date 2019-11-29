@@ -323,7 +323,7 @@
   "versionA.EXAM_STEP1AI_COMMON.label.test_end_day": "受検終了日",
   "versionA.EXAM_STEP1AI_COMMON.label.test_end_time": "受検終了時刻",
   "versionA.EXAM_STEP1AI_COMMON.label.applicant_site": "受験者サイト",
-  "versionA.EXAM_STEP1AI_COMMON.label.interviewer_setting": "AI面接官設定",
+  "versionA.EXAM_STEP1AI_COMMON.label.interviewer_setting": "AI検査の面接官設定",
   "versionA.EXAM_STEP1AI_COMMON.guide.msg10": "こんにちは、はじめまして。これからオンライン面接を始めます。",
   "versionA.EXAM_STEP1AI_COMMON.label.voice_prelisten": "音声のテスト",
   "versionA.EXAM_STEP1AI_COMMON.guide.msg11": "リスニングするテキストを入力して事前に声を確認してください。",
