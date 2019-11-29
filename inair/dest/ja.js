@@ -535,7 +535,7 @@
   "versionB.EXAM_STEP4AI_COMMON.label.reset": "リセット",
   "versionB.EXAM_STEP4AI_COMMON.alert.msg2": "リセットしますか。",
   "versionB.EXAM_STEP4AI_COMMON.alert.msg3": "callbackがありません。",
-  "versionB.EXAM_STEP4AI_COMMON.guide.msg8": "基本質問、状況対処、深層対話、カスタマイズ質問の質問構成を確認できます。",
+  "versionB.EXAM_STEP4AI_COMMON.guide.msg8": "基本質問、状況対処、深層対話、カスタマイズ質問の構成を確認できます。",
   "versionB.EXAM_STEP4AI_COMMON.guide.msg9": "カスタマイズ質問の設定により、必要な質問を追加することができます。",
   "versionB.EXAM_STEP4AI_COMMON.guide.msg10": "以前の選考で使用した質問設定を読み込んで使用できます。",
   "versionB.EXAM_STEP4AI_COMMON.label.question_list": "質問構成",
