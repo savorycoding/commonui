@@ -270,7 +270,7 @@
   "inAir.itvResultV2.label.apply_field": "応募分野",
   "inAir.itvResultV2.label.screening_title": "検査名",
   "inAir.itvResultV2.label.estimation_score": "高成果予測点数",
-  "inAir.itvResultV2.label.customizing_core_factor": "カスタマイズ名<br>核心的な要因",
+  "inAir.itvResultV2.label.customizing_core_factor": "カスタマイズ名<br>核心要因",
   "inAir.itvResultV2.label.core_factor": "核心的な要因",
   "inAir.itvResultV2.label.customizing_title": "カスタマイズ名",
   "inAir.itvResultV2.label.estimation_score_blind": "高成果予測点数ブラインド",
