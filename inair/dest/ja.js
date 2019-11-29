@@ -670,7 +670,7 @@
   "inAir.Isac.job_group.production_fit": "生産(fit+)",
   "inAir.Isac.exam_method.online": "オンライン",
   "inAir.Isac.exam_method.offline": "オフライン",
-  "inAir.Isac.exam_status.ready": "進行前",
+  "inAir.Isac.exam_status.ready": "開始前",
   "inAir.Isac.exam_status.active": "進行中",
   "inAir.Isac.exam_status.completed": "締め切り",
   "inAir.Isac.custom_kind.all_apply": "一括適用",
