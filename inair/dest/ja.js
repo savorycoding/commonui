@@ -501,7 +501,7 @@
   "versionB.EXAM_STEP4AI_COMMON.label.basic_question": "基本質問",
   "versionB.EXAM_STEP4AI_COMMON.label.situation_reaction": "状況対処",
   "versionB.EXAM_STEP4AI_COMMON.label.struct_conversation": "深層対話",
-  "versionB.EXAM_STEP4AI_COMMON.label.custom_question": "カスタマイズ質問登録",
+  "versionB.EXAM_STEP4AI_COMMON.label.custom_question": "カスタマイズ質問",
   "versionB.EXAM_STEP4AI_COMMON.label.minute": "分",
   "versionB.EXAM_STEP4AI_COMMON.label.maximum_requireTime": "最大所要時間",
   "versionB.EXAM_STEP4AI_COMMON.label.job_requireTime": "職種別の所要時間",
