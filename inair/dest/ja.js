@@ -763,7 +763,7 @@
   "inAir.Isac.getPoint.label.each": "件",
   "inAir.Isac.getPoint.label.sms_remain": "SMS残余件数",
   "inAir.Isac.getPoint.error.msg2": "間違っているtypeです",
-  "inAir.Isac.getPoint.label.register_available_people": "※ オンラインAI面接登録可能人数",
+  "inAir.Isac.getPoint.label.register_available_people": "※ オンラインAI検査登録可能人数",
   "inAir.Isac.getPoint.label.person": "名",
   "inAir.Isac.error.msg5": "情報の読み込みに失敗しました。もう一度やり直してください。",
   "inAir.Isac.error.msg6": "登録されている番号がありません。",
