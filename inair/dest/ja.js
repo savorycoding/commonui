@@ -640,7 +640,7 @@
   "versionB.EXAM_STEP5AI_COMMON.guide.msg19":"逆に1点はこの点数より低い規準集団の受検者が1%ということであり、規準内下位1%であることを意味します。",
   "versionB.EXAM_STEP5AI_COMMON.guide.msg20": "パーセンタイルは最少1点、最大99点の範囲を持ちます。",
   "versionB.EXAM_STEP5AI_COMMON.alert.msg6": "代表メンバーを設定してください。",
-  "versionB.EXAM_STEP5AI_COMMON.alert.msg7": "代表メンバー一括設定を選んでください。",
+  "versionB.EXAM_STEP5AI_COMMON.alert.msg7": "代表メンバーの一括設定を選んでください。",
   "versionB.EXAM_STEP5AI_COMMON.alert.msg8": "代表メンバー職種別設定を選んでください。",
   "versionB.EXAM_STEP5AI_COMMON.alert.msg9": "類似メンバーを設定してください。",
   "versionB.EXAM_STEP5AI_COMMON.alert.msg10": "類似メンバー一括設定を選んでください。",
