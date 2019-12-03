@@ -8,7 +8,7 @@
   "inAir.itvResult.label.so_bad": "非常に不適",
   "inAir.itvResult.error.msg1": "ファクターの数が正しくありません。",
   "inAir.itvResult.label.available": "可能",
-  "inAir.itvResult.label.proxy_doubt": "替え玉受検の疑い",
+  "inAir.itvResult.label.proxy_doubt": "替え玉受検疑惑",
   "inAir.itvResult.label.doubt": "疑い",
   "inAir.itvResult.label.unavailable": "負荷",
   "inAir.itvResult.error.msg2": "動画の再生ができない環境です。<br> Microsoft Edge, Google Chrome, Firefox などの <br> PC環境で再生ができます。",
