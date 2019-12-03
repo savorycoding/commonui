@@ -173,7 +173,7 @@
   "inAir.itvResultV2.label.response_time": "応答時間(受検者)",
   "inAir.itvResultV2.label.response_time2": "応答時間(標準)",
   "inAir.itvResultV2.label.question_number": "項目番号",
-  "inAir.itvResultV2.label.concentration_profile": "集中力プロファイル",
+  "inAir.itvResultV2.label.concentration_profile": "プロファイル",
   "inAir.itvResultV2.label.fulfillment": "遂行",
   "inAir.itvResultV2.label.speed": "速度",
   "inAir.itvResultV2.label.good": "優秀",
