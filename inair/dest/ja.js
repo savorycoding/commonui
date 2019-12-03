@@ -193,7 +193,7 @@
   "inAir.itvResultV2.guide.msg8": "易しい有で後半に行くほど問題解決に適応する水準を意味します。",
   "inAir.itvResultV2.label.difficult_type3": "難しい",
   "inAir.itvResultV2.guide.msg9": "難しい有形で後半に行くほど問題解決に適応する水準うぃ意味します。",
-  "inAir.itvResultV2.label.difficulty_up": "難易度上昇",
+  "inAir.itvResultV2.label.difficulty_up": "難度上昇",
   "inAir.itvResultV2.guide.msg10":"同一ゲーム内の易しい有形で難しい有形へと難易度の変化があった時、問題解決に適応する水準を意味します。",
   "inAir.itvResultV2.label.detail_job": "職群／職務適合度（詳細）",
   "inAir.itvResultV2.label.job": "職群",
