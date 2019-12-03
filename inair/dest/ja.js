@@ -803,7 +803,7 @@
   "inAir.layerPopEMail.guide.msg12":"こんにちは。$名前$さん、$会社名$です。オンラインコンピテンシー検査が次のように行われます。<br>以下の内容を必ず理解し、受検に間違いないようお願いします。",
   "inAir.layerPopEMail.label.division": "区分",
   "inAir.layerPopEMail.label.exam_period2": "$受検期間$",
-  "inAir.layerPopEMail.guide.msg13": "約$소요시간$分",
+  "inAir.layerPopEMail.guide.msg13": "約60分<br>※10分前後の個人差があります。",
   "inAir.layerPopEMail.label.guidance": "有意事項",
   "inAir.layerPopEMail.label.check_material": "[準備事項]",
   "inAir.layerPopEMail.guide.msg14": "1. PCカメラ・マイク（ノートパソコンカメラ、内蔵マイク使用可能）",
