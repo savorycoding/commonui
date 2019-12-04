@@ -266,7 +266,7 @@
   "inAir.itvResultV2.label.summary_applicant": "応募者の特性要約",
   "inAir.itvResultV2.guide.msg21": "各キーワードにマウスを当てると、該当する力量名称を確認することができます。",
   "inAir.itvResultV2.label.organization_unfit": "組織不適合",
-  "inAir.itvResultV2.label.not_recommand": "おすすめしない",
+  "inAir.itvResultV2.label.not_recommand": "推奨しない",
   "inAir.itvResultV2.label.apply_field": "応募分野",
   "inAir.itvResultV2.label.screening_title": "検査名",
   "inAir.itvResultV2.label.estimation_score": "高成果予測点数",
