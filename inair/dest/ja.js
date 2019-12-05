@@ -691,7 +691,7 @@
   "inAir.Isac.analysis_status.done": "分析完了",
   "inAir.Isac.analysis_status.fail": "分析失敗",
   "inAir.Isac.mail_result.success": "成功",
-  "inAir.Isac.mail_result.mailing": "発送中",
+  "inAir.Isac.mail_result.mailing": "送信中",
   "inAir.Isac.mail_result.fail": "失敗",
   "inAir.Isac.mail_result.open": "閲覧",
   "inAir.Isac.grade.very_good": "非常に優秀",
