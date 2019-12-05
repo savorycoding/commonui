@@ -221,7 +221,7 @@
   "inAir.itvResultV2.label.apply_for_job": "応募職種",
   "inAir.itvResultV2.label.screening": "典型",
   "inAir.itvResultV2.guide.msg11":"受検者の結果が信頼できません。<br>{0}さんの結果を他の受検者と比べられないため、この結果を意思決定に利用するのは難しいです。<br>信頼不可の原因に該当するキーワードを確認してください。",
-  "inAir.itvResultV2.label.applicant_skill": "受験者コンピテンシー解析",
+  "inAir.itvResultV2.label.applicant_skill": "受検者コンピテンシー解析",
   "inAir.itvResultV2.comment.msg1": "{0}<br>ブラインド処理されました。",
   "inAir.itvResultV2.label.entire": "全体",
   "inAir.itvResultV2.label.applicant": "応募",
