@@ -672,7 +672,7 @@
   "inAir.Isac.exam_method.offline": "オフライン",
   "inAir.Isac.exam_status.ready": "開始前",
   "inAir.Isac.exam_status.active": "進行中",
-  "inAir.Isac.exam_status.completed": "締め切り",
+  "inAir.Isac.exam_status.completed": "終了",
   "inAir.Isac.custom_kind.all_apply": "一括適用",
   "inAir.Isac.custom_kind.job_apply": "職種別適用",
   "inAir.Isac.custom_kind.none_apply": "適用しない",
