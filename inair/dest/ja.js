@@ -246,7 +246,7 @@
   "inAir.itvResultV2.label.similarity": "代表メンバーとも類似性",
   "inAir.itvResultV2.guide.msg15": "代表メンバーとして設定されている在職者はいません。",
   "inAir.itvResultV2.label.summary": "総合",
-  "inAir.itvResultV2.label.performance": "成果コンピテンシー",
+  "inAir.itvResultV2.label.performance": "成果<br>コンピテンシー",
   "inAir.itvResultV2.label.growth": "成長コンピテンシー",
   "inAir.itvResultV2.label.representative_member": "代表構成員",
   "inAir.itvResultV2.label.similar_member": "類似構成員",
